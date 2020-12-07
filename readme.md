@@ -1,7 +1,7 @@
 # FE Coding Challenge
 ## Introduction
 
-Welcome to the BOND Coding Challenge.
+Welcome to the movies Coding Challenge.
 
 Please set aside **no more than two weeks** to complete this exercise. Get as far as you can, but you’re not required to complete the task! The purpose of this exercise is to get a feel for your approach to problem solving, code style, and comfort with different aspects of developing for the web.
 
